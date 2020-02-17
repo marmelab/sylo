@@ -1,0 +1,9 @@
+{
+  "id": "what-is-it",
+  "title": "What is it?",
+  "description": "You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).",
+  "source": "@site/docs/what-is-it.md",
+  "permalink": "/docs/what-is-it",
+  "sidebar_label": "What is it?",
+  "sidebar": "docs"
+}

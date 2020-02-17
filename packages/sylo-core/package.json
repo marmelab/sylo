@@ -1,0 +1,11 @@
+{
+    "name": "@sylo/core",
+    "version": "0.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "hash-sum": "2.0.0",
+        "overmind": "^19.1.1",
+        "lodash.pick": "4.4.0",
+        "mitt": "1.2.0"
+    }
+}

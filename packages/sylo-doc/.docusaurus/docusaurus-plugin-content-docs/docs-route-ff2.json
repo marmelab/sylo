@@ -1,0 +1,25 @@
+{
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "category",
+        "label": "Docusaurus",
+        "items": [
+          {
+            "type": "link",
+            "label": "What is it?",
+            "href": "/docs/what-is-it"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Features",
+        "items": []
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/what-is-it": "docs"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@sylo-examples/react",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {
+    "@reach/router": "^1.2.1",
+    "classnames": "2.2.6",
+    "fakerest": "^2.1.0",
+    "fetch-mock": "^5.9.3",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "todomvc-app-css": "2.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.12.4"
+  }
+}
